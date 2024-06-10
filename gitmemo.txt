@@ -1,4 +1,7 @@
-git pull
-git add
-git commit
-git puch
+git pull(念の為リモートリポジトリの内容に更新)
+git add . (ですべてのファイルを追加する）
+git commit -m “コメント” （でコミットする）
+git push (でGithubにプッシュする）
+ブラウザで更新されたか確認する
+
+
