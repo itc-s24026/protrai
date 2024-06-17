@@ -10,5 +10,5 @@ def main():
     kekka = omikuji()
     print("结果",kekka,"です。")
 
-if __name__ == "__name__":
+if __name__ == "__main__":
     main()
