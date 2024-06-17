@@ -6,5 +6,9 @@ def omikuji():
     kuji = ["大吉","中吉","小吉","凶"]
     return random.choice(kuji)
 
-kekka = omikuji()
-print("结果",kekka,"です。")
+def main():
+    kekka = omikuji()
+    print("结果",kekka,"です。")
+
+if __name__ == "__name__":
+    main()
